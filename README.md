@@ -24,9 +24,9 @@ Python netdispatcher is a generic class for handling and dispatch TCP socket mes
 
 * Stop properly the listener with `NetworkListener.stop = True` and `NetworkListener.join`
 
-For more details about usage, take a look to the chat example.
+For more details about usage, take a look at the chat example.
 
-### Example
+### Examples
 
 * Chat server : chat_server_example.py
 ```
